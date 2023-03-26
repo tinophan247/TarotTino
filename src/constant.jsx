@@ -177,7 +177,6 @@ export const cardDetailDatas = [
     '-Three of Wands nói rằng sự lao động quá sức sẽ khiến bạn kiệt sức. Cân bằng sức khỏe là điều quan trọng phải thực hiện, không nên để cơ thể hoạt động liên tục cũng không nên ì ạch không vận động gì. <br/>-Những bài tập nhẹ, đi bộ thường xuyên rất tốt. Bạn nên thực hiện lối sống lành mạnh, ăn nhiều rau củ, đồ mát, ngủ nghỉ điều độ để tránh các căn bệnh do căng thẳng gây ra. <br/>-Ngoài ra, Three of Wands cảnh báo một số vấn đề về tình dục có thể gây ảnh hưởng xấu tới sức khỏe. <br/>',
     '-Những chuyến xả hơi, nghỉ mát là cần thiết để thư giãn nhưng bạn không nên phung phí quá nhiều ngân sách để phục vụ sở thích cá nhân. <br/>-Lá bài Three of Wands cảnh báo bạn nên tiết kiệm tiền để chuẩn bị cho tương lai. <br/>-Trong thời điểm sắp tới sẽ có những cơ hội nghề nghiệp tìm đến, việc chuẩn bị tài chính từ trước sẽ giúp bạn thuận lợi trong việc đầu tư và gọi vốn. <br/>',
   ),
-
 ]
 
 const createOptionDatas = (name, img, color, link) => {

@@ -4,7 +4,7 @@ import { optionDatas } from '../../constant';
 
 const Home = () => {
   return (
-    <div className='w-full h-screen bg-home '>
+    <div className='w-full h-screen '>
       <div className='flex h-40 justify-center items-center text-4xl font-bold'>Chọn vấn đề bạn muốn xem nhé</div>
       <div className='flex justify-around '>
         {optionDatas.length > 0 &&
